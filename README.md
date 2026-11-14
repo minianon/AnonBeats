@@ -59,9 +59,7 @@ Personal, ad‑free music player — upload your songs, build playlists, and str
 
 This project includes a **passcode-protected entry** for demo access.  
 If you'd like to explore **AnonBeats** live, please **DM me for the passcode** via:  
-- 💬 [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)  
-- 📧 [Email](mailto:tusharbhardwaj2617@gmail.com)
-- 💻 [Topmate](https://topmate.io/tusharbhardwaj)
+**Find me everywhere →** [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
   
 *(Access is restricted to maintain privacy and server limits.)*
 
@@ -251,7 +249,7 @@ See the [LICENSE](./LICENSE) file for details.
 
 ## Connect with me
 
-If you’d like to connect, feel free to reach out — [Click here](https://link.minianon.in/tusharbhardwaj)
+**Find me everywhere →** [link.minianon.in/tusharbhardwaj](https://link.minianon.in/tusharbhardwaj)
 
 If my work helps you, you can support it on [GitHub Sponsors](https://github.com/sponsors/minianon) · [Buy me a chai](https://buymeachai.ezee.li/minianon).
 
