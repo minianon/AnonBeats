@@ -60,7 +60,7 @@ Personal, ad‑free music player — upload your songs, build playlists, and str
 This project includes a **passcode-protected entry** for demo access.  
 If you'd like to explore **AnonBeats** live, please **DM me for the passcode** via:  
 - 💬 [LinkedIn](https://www.linkedin.com/in/bhardwajtushar2004/)  
-- 📧 [Email](mailto:tusharbhardwaj2617@example.com)
+- 📧 [Email](mailto:tusharbhardwaj2617@gmail.com)
 - 💻 [Topmate](https://topmate.io/tusharbhardwaj)
   
 *(Access is restricted to maintain privacy and server limits.)*
